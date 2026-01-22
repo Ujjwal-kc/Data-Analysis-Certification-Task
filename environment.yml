@@ -71,6 +71,7 @@ dependencies:
   - isoduration=20.11.0=pyhd8ed1ab_1
   - jedi=0.19.2=pyhd8ed1ab_1
   - jinja2=3.1.6=pyhcf101f3_1
+  - joblib=1.5.3=pyhd8ed1ab_0
   - json5=0.13.0=pyhd8ed1ab_0
   - jsonpointer=3.0.0=pyhcf101f3_3
   - jsonschema=4.26.0=pyhcf101f3_0
@@ -208,6 +209,7 @@ dependencies:
   - rfc3986-validator=0.1.1=pyh9f0ad1d_0
   - rfc3987-syntax=1.1.0=pyhe01879c_1
   - rpds-py=0.30.0=py312h868fb18_0
+  - scikit-learn=1.8.0=np2py312h3226591_1
   - scipy=1.17.0=py312h54fa4ab_0
   - seaborn=0.13.2=hd8ed1ab_3
   - seaborn-base=0.13.2=pyhd8ed1ab_3
@@ -219,6 +221,7 @@ dependencies:
   - stack_data=0.6.3=pyhd8ed1ab_1
   - statsmodels=0.14.6=py312h4f23490_0
   - terminado=0.18.1=pyhc90fa1f_1
+  - threadpoolctl=3.6.0=pyhecae5ae_0
   - tinycss2=1.5.1=pyhcf101f3_0
   - tk=8.6.13=noxft_ha0e22de_103
   - tomli=2.4.0=pyhcf101f3_0
